@@ -21,6 +21,8 @@
 * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bdifficulty%5D%5B%5D=easy&badge_type=problem-solving)
 * [CppStudio](http://cppstudio.com/cat/285/286/)
 * [PureCodeCpp](http://purecodecpp.com/archives/433)
+* [CodeAbbey](http://www.codeabbey.com/index/task_list)
+
 
 ## Примерное описание задач
 Задачи должны объяснять работу с базовыми структурами данных:
