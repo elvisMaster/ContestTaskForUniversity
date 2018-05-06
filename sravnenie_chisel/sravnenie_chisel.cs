@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace sravnenie_chisel
+namespace Space
 {
     class Program
     {
