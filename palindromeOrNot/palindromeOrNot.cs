@@ -32,7 +32,7 @@ namespace palindromeOrNot
             {
                 Console.WriteLine("The string is not a Palindrome.\n");
             }
-            Console.ReadLine();
+
         }
     }
 }
